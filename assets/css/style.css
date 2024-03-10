@@ -11,14 +11,14 @@ body {
  }
 .container {
   
-    max-width: 800px;
-    margin: 20px auto;
+    max-width: 900px;
+    margin: 80px auto;
     background-color: #fff;
     padding: 20px;
     border-radius: 5px;
     padding-right: 40px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-     margin-top: 80px;
+ 
     }
 
 h1, h2 {
@@ -27,12 +27,10 @@ h1, h2 {
 .assignments {
     list-style: none;
     padding: 0;
+    margin-bottom: 10px;
     
 }
-.assignments   {
-    margin-bottom: 10px;
-   
-}
+ 
 .assignments  a {
     display: block;
     padding: 10px;
