@@ -46,7 +46,7 @@ h1, h2 {
 }
  
 .tit{
-    text-align: center;
+ 
     width :100%;
     font-family: "Montserrat", "Fira Sans", sans-serif;
     margin: 20px;
@@ -55,4 +55,6 @@ h1, h2 {
 .assignments  a:hover {
     background-color:#500000;
 }
+
+
  
